@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajithek&label=Profile%20views&color=0e75b6&style=flat" alt="prajithek" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prajithek" target="blank"><img src="https://img.shields.io/twitter/follow/prajithek?logo=twitter&style=for-the-badge" alt="prajithek" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
